@@ -1,2 +1,2 @@
-# Hello-World
- Primeiro Repoitorio curso eem video git e github
+# Hello, World!
+ Primeiro Repoitório curso em video git e github
